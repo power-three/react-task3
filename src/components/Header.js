@@ -17,14 +17,7 @@ export default class Header extends Component {
             </ul>
          </nav>
 
-         <div className="row banner">
-            <div className="banner-text">
-               
-               <hr/>
-               
-            
-            </div>
-         </div>
+        
 
          <p className="scrolldown">
             <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
