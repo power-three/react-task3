@@ -6,4 +6,5 @@
 - install npm and node.js and react
 - in terminal go to project director 
 - run this command > npm start
+
 -To see how it work check this link : https://drive.google.com/file/d/11MncovzbuiXByoBlK0TUE5Xt0EtfKCQB/view 
